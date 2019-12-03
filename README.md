@@ -2,11 +2,11 @@
 
 * Environment: Python3, Jupyter Notebook, Anaconda, Mac OS Catalina 10.15.x
 
-# 0. Introduction to Deep Learning
+## 0. Introduction to Deep Learning
 * 1-4 Program Introduction // Day 1
 * 5-7 Managing Environment // Day 2
-     * Example: Style Transfer, DeepTraffic, Flappy Bird
-# 1 Matrix Math and NumPy Refresher 
+     * Examples: Style Transfer, DeepTraffic, Flappy Bird
+## 1. Matrix Math and NumPy Refresher 
  1. Data Dimensions
  2. Data in NumPy 
  3. Element-wise Matrix Operations
@@ -16,8 +16,8 @@
  7. Matrix Transposes
  8. Transposes in NumPy 
 
-# 2. Neural Networks
-## 1 Introduction to Neural Networks
+## 2. Neural Networks
+### 1 Introduction to Neural Networks
  1. Classification Problems
  2. Linear Boundaries
  3. Higher Dimensions // Day 4
