@@ -1,6 +1,4 @@
-Welcome to the Deep-Learning-Udacity wiki!
-
-This layouts the main topics of Deep Learning Nanodegree at Udacity.
+### This layouts the main topics of Deep Learning Nanodegree at Udacity.
 
 * Environment: Python3, Jupyter Notebook, Anaconda, Mac OS Catalina 10.15.x
 
