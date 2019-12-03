@@ -17,7 +17,7 @@
  8. Transposes in NumPy 
 
 ## 2. Neural Networks
-### 1 Introduction to Neural Networks
+### 1. Introduction to Neural Networks
  1. Classification Problems
  2. Linear Boundaries
  3. Higher Dimensions // Day 4
