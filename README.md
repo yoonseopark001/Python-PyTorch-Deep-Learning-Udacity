@@ -50,4 +50,4 @@
 
 
 * Book: Grokking Deep Learning by Andrew Trask
-* (Practice and exercises)[https://github.com/udacity/deep-learning-v2-pytorch]
+* [Practice and exercises](https://github.com/udacity/deep-learning-v2-pytorch)
