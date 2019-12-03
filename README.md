@@ -1,10 +1,10 @@
-### This layouts the main topics of [Deep Learning Nanodegree at Udacity.](https://github.com/udacity/deep-learning-v2-pytorch)
+### This layouts the main topics of Deep Learning Nanodegree at [Udacity.](https://github.com/udacity) and my progress
 
 * Environment: Python3, Jupyter Notebook, Anaconda, Mac OS Catalina 10.15.x
 
 ## 0. Introduction to Deep Learning
-* 1-4 Program Introduction // Day 1
-* 5-7 Managing Environment // Day 2
+* 1-4. Program Introduction // Day 1
+* 5-7. Managing Environment // Day 2
      * Examples: Style Transfer, DeepTraffic, Flappy Bird
 ## 1. Matrix Math and NumPy Refresher 
  1. Data Dimensions
@@ -39,7 +39,6 @@
  19. Logistic Regression
  20. Gradient Descent
  21. Logistic Regression Algorithm
- 22. Gradient Descent
  23. Perceptron vs Gradient Descent
  24. Continuous Perceptrons
  25. Non-linear Data
@@ -51,3 +50,4 @@
 
 
 * Book: Grokking Deep Learning by Andrew Trask
+* (Practice and exercises)[https://github.com/udacity/deep-learning-v2-pytorch]
