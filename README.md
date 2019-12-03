@@ -1,4 +1,4 @@
-### This layouts the main topics of Deep Learning Nanodegree at [Udacity.](https://github.com/udacity) and my progress
+### This layouts the (summarized) topics of Deep Learning Nanodegree at [Udacity.](https://github.com/udacity) and my progress
 
 * Environment: Python3, Jupyter Notebook, Anaconda, Mac OS Catalina 10.15.x
 
