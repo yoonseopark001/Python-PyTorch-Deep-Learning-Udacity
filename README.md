@@ -41,7 +41,7 @@
  18. Multi-Class Cross Entropy
  19. Logistic Regression
  20. Gradient Descent
- 21. Logistic Regression Algorithm `Day 7` 
+ 21. Logistic Regression Algorithm `Day 7`  
  [Exercise 01: Neural Networks > Gradient Descent Algorithm](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E1_Neural%20Networks_GradientDescent.ipynb)
  23. Perceptron vs Gradient Descent
  24. Continuous Perceptrons
