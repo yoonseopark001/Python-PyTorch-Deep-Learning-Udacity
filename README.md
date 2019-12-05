@@ -23,12 +23,12 @@
 ### 1. Introduction to Neural Networks
  1. Classification Problems
  2. Linear Boundaries
- 3. Higher Dimensions // `Day 4`
+ 3. Higher Dimensions `Day 4`
  4. Perceptrons
  5. Why "Neural Networks"?
  6. Perceptrons as Logical Operators
  7. Perceptron Trick
- 8. Perceptron Algorithm // `Day 5`
+ 8. Perceptron Algorithm `Day 5`
  9. Non-Linear Regions
  10. Error Functions
  11. Log-loss Error Function
@@ -36,12 +36,12 @@
  13. Softmax
  14. One-Hot Encoding
  15. Maximum Likelihood
- 16. Maximizing Probabilities // `Day 6`
+ 16. Maximizing Probabilities `Day 6`
  17. Cross-Entropy
  18. Multi-Class Cross Entropy
  19. Logistic Regression
  20. Gradient Descent
- 21. Logistic Regression Algorithm // `Day 7` 
+ 21. Logistic Regression Algorithm `Day 7` 
  [Exercise 01: Neural Networks > Gradient Descent Algorithm](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E1_Neural%20Networks_GradientDescent.ipynb)
  23. Perceptron vs Gradient Descent
  24. Continuous Perceptrons
