@@ -29,7 +29,7 @@
  9. Non-Linear Regions
  10. Error Functions
  11. Log-loss Error Function
- 12. Discrete vs Continuous
+ 12. Discrete vs Continuous: sigmoid
  13. Softmax
  14. One-Hot Encoding
  15. Maximum Likelihood
@@ -38,7 +38,8 @@
  18. Multi-Class Cross Entropy
  19. Logistic Regression
  20. Gradient Descent
- 21. Logistic Regression Algorithm
+ 21. Logistic Regression Algorithm // Day 7
+ [Exercise 01](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E1_Neural%20Networks_GradientDescent.ipynb)
  23. Perceptron vs Gradient Descent
  24. Continuous Perceptrons
  25. Non-linear Data
