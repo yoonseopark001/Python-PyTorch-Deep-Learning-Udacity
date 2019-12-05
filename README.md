@@ -33,7 +33,7 @@
  13. Softmax
  14. One-Hot Encoding
  15. Maximum Likelihood
- 16. Maximizing Probabilities
+ 16. Maximizing Probabilities // Day 6
  17. Cross-Entropy
  18. Multi-Class Cross Entropy
  19. Logistic Regression
