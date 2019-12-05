@@ -2,6 +2,9 @@
 
 * Environment: Python3, Jupyter Notebook, Anaconda, Mac OS Catalina 10.15.x
 
+## Exercise
+[Exercise 01: Gradient Descent Algorithm](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E1_Neural%20Networks_GradientDescent.ipynb)
+
 ## 0. Introduction to Deep Learning
 * 1-4. Program Introduction // Day 1
 * 5-7. Managing Environment // Day 2
@@ -38,8 +41,8 @@
  18. Multi-Class Cross Entropy
  19. Logistic Regression
  20. Gradient Descent
- 21. Logistic Regression Algorithm // Day 7
- [Exercise 01](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E1_Neural%20Networks_GradientDescent.ipynb)
+ 21. Logistic Regression Algorithm // Day 7  
+ [Exercise 01: Gradient Descent Algorithm](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E1_Neural%20Networks_GradientDescent.ipynb)
  23. Perceptron vs Gradient Descent
  24. Continuous Perceptrons
  25. Non-linear Data
