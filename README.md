@@ -3,7 +3,8 @@
 * Environment: Python3, Jupyter Notebook, Anaconda, Mac OS Catalina 10.15.x
 
 ## Exercise
-[Exercise 01: Neural Networks > Gradient Descent Algorithm](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E1_Neural%20Networks_GradientDescent.ipynb)
+[Exercise 01: Neural Networks > Gradient Descent Algorithm](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E1_Neural%20Networks_GradientDescent.ipynb)  
+[Exercise 02: Neural Networks > Predicting Student Admissions with Neural Networks](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E2_StudentAdmissions.ipynb)
 
 ## 0. Introduction to Deep Learning
 * 1-4. Program Introduction `Day 1`
@@ -50,7 +51,8 @@
  27. Neural Network Architecture
  28. Feedforward
  29. Backpropagation
- 30. Analyzing Student Data
+ 30. Analyzing Student Data  
+ [Exercise 02: Neural Networks > Predicting Student Admissions with Neural Networks](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E2_StudentAdmissions.ipynb)
 
 
 * Book: Grokking Deep Learning by Andrew Trask
