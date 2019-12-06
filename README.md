@@ -53,6 +53,17 @@
  29. Backpropagation
  30. Analyzing Student Data  
  [Exercise 02: Neural Networks > Predicting Student Admissions with Neural Networks](https://github.com/yoonseopark001/Deep-Learning-Udacity/blob/master/L1E2_StudentAdmissions.ipynb)
+### 2. Introduction to Neural Networks
+ 1. Mean Squared Error Function
+ 2. Gradient Descent
+ 3. Gradient Descent: The Math
+ 4. Gradient Descent: The Code
+ 5. Implementing Gradient Descent
+ 6. Multilayer Perceptrons
+ 7. Backpropagation
+ 8. Implementing Backpropagation
+ 9. Further Reading
+
 
 
 * Book: Grokking Deep Learning by Andrew Trask
