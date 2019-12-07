@@ -11,7 +11,7 @@ A2 Analyzing Student Admission Data
 04 Cross-entropy  
 05 Gradient Descent  
 
-## Step
-e1 Data Cleanup: Load the data > One-hot encoding > Scaling > Spiliting into Training and Testing > Spiliting into Features and Targets  
-e2 Data Cleanup: Load the data > One-hot encoding > Scaling > Spiliting into Training and Testing > Spiliting into Features and Targets
+## Data Cleanup
+e1 Data Cleanup with graduate admission dataset 1  
+e2 Data Cleanup with graduate admission dataset 2 
 
