@@ -7,7 +7,7 @@ A2 Analyzing Student Admission Data
 ## Exercises
 01 Perceptron As Logical Operators  
 02 Perceptron AlgorithmCoding  
-03 Softmax Function  
+03 Sigmoid Function & Softmax Function  
 04 Cross-entropy  
 05 Gradient Descent  
 
