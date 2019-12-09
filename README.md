@@ -2,7 +2,7 @@
 
 ## Implementing Neural Networks 
 A1 Implementing Gradient Descent  
-A2 Analyzing Student Admission Data
+A2 Analyzing Student Admission Data  
 A3 Analyzing Student Admission Data (Simpler Version)
 
 ## Exercises
