@@ -15,5 +15,5 @@ A3 Analyzing Student Admission Data (Simpler Version)
 
 ## Data Cleanup
 e1 Data Cleanup with graduate admission dataset 1  
-e2 Data Cleanup with graduate admission dataset 2 
+e2 Data Cleanup with graduate admission dataset 2 (Simpler Version on one-hot encoding ; Z-score)
 
