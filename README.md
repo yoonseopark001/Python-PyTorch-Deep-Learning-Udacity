@@ -11,6 +11,7 @@ A3 Analyzing Student Admission Data (Simpler Version)
 03 Sigmoid Function & Softmax Function  
 04 Cross-entropy  
 05 Gradient Descent  
+06 Multilayer Perceptrons (Hidden layer in/out, Output layer in/out)  
 
 ## Data Cleanup
 e1 Data Cleanup with graduate admission dataset 1  
