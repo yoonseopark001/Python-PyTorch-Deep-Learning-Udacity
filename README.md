@@ -12,6 +12,7 @@ A3 Analyzing Student Admission Data (Simpler Version)
 04 Cross-entropy  
 05 Gradient Descent  
 06 Multilayer Perceptrons (Hidden layer in/out, Output layer in/out)  
+07 Backpropagation
 
 ## Data Cleanup
 e1 Data Cleanup with graduate admission dataset 1  
