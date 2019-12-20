@@ -1,5 +1,8 @@
 #### This layouts the (summarized) topics of Deep Learning Nanodegree at Udacity and my progress.
 
+##
+P2 Sentiment Analysis - iMDb movie reviews and ratings
+
 ## Implementing Neural Networks 
 A1 Implementing Gradient Descent  
 A2 Implementing Gradient Descent with Student Admission Data  
