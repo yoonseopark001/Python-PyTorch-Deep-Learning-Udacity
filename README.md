@@ -1,6 +1,7 @@
 #### This layouts the (summarized) topics of Deep Learning Nanodegree at Udacity and my progress.
 
-##
+## Projects
+P1 Bike Sharing Patterns - UCI Machine Learning dataset
 P2 Sentiment Analysis - iMDb movie reviews and ratings
 
 ## Implementing Neural Networks 
