@@ -24,4 +24,4 @@ e1 Data Cleanup with graduate admission dataset 1
 e2 Data Cleanup with graduate admission dataset 2 (Simpler Version on one-hot encoding ; Z-score)
 
 ## PyTorch
-PyTorch01 Intro: Neural Networks, Tensors, Numpy to Torch and back  
+PyTorch 01 Intro to Deep Learning with PyTorch_Neural Networks, Tensors, Numpy to Torch and back  
