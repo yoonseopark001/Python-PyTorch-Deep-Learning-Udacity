@@ -23,3 +23,5 @@ A4 Implementing Backpropagation with Student Admission Data
 e1 Data Cleanup with graduate admission dataset 1  
 e2 Data Cleanup with graduate admission dataset 2 (Simpler Version on one-hot encoding ; Z-score)
 
+## PyTorch
+PyTorch01 Intro: Neural Networks, Tensors, Numpy to Torch and back  
