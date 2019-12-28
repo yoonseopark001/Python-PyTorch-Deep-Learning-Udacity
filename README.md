@@ -25,6 +25,6 @@ e2 Data Cleanup with graduate admission dataset 2 (Simpler Version on one-hot en
 
 ## PyTorch
 PyTorch01 Intro to Deep Learning with PyTorch - Neural Networks, Tensors, Numpy to Torch and back  
-PyTorch02 Building Neural Networks with PyTorch - Activation Functions, Build a Network, Initializing weights and biases, Forward pass, nn.Sequential
+PyTorch02 Building Neural Networks with PyTorch - Activation Functions, Build a Network, Initializing weights and biases, Forward pass, nn.Sequential  
 PyTorch03 Training Neural Networks - Backpropagation, Losses, Autograd, Training
 
