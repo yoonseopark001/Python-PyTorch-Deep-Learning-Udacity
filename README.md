@@ -9,6 +9,8 @@ PyTorch01 Intro to Deep Learning with PyTorch - Neural Networks, Tensors, Numpy 
 PyTorch02 Handwriting MNIST project (1/2) - Building Neural Networks with PyTorch (Activation Functions, Build a Network, Initializing weights and biases, Forward pass, nn.Sequential)  
 PyTorch03 Handwriting MNIST project (2/2) - Training Neural Networks (Backpropagation, Losses, Autograd, Training)
 PyTorch04 Fashion MNIST project  
+PyTorch04 Fashion MNIST project (Alternative way)  
+
 
 ## Implementing Neural Networks 
 A1 Implementing Gradient Descent  
