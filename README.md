@@ -10,8 +10,10 @@
 * PyTorch03 Handwriting MNIST project (2/2) - Training Neural Networks and Implementation
   (Backpropagation, Losses, Autograd, Training)
 * PyTorch04 Fashion MNIST project  
-* PyTorch04 Fashion MNIST project (Alternative way)  
-
+* PyTorch04_1 Fashion MNIST project (Alternative way)  
+* PyTorch05 Fashion MNIST project - Inference And Validation (overfitting, dropout)  
+* PyTorch06 Saving and Loading Models  
+ 
 
 ## Deep Learning
 ### Implementing Neural Networks 
