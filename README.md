@@ -13,11 +13,15 @@
 * PyTorch04 Fashion MNIST project (Alternative way)  
 
 
-## Implementing Neural Networks 
+## Deep Learning
+### Implementing Neural Networks 
 * A1 Implementing Gradient Descent  
 * A2 Implementing Gradient Descent with Student Admission Data  
 * A3 Implementing Gradient Descent with Analyzing Student Admission Data (Simpler Version)  
 * A4 Implementing Backpropagation with Student Admission Data
+
+### Convolutional Neural Networks (CNN)
+* B1 Multi-Layer Perceptron with MNIST data  
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
