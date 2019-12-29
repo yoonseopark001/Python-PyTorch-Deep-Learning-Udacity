@@ -21,7 +21,7 @@
 * A4 Implementing Backpropagation with Student Admission Data
 
 ### Convolutional Neural Networks (CNN)
-* B1 Multi-Layer Perceptron with MNIST data  
+* B1 Multi-Layer Perceptron with handwriting MNIST data  
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
