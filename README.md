@@ -14,7 +14,7 @@
 * PyTorch05 Fashion MNIST project - Inference And Validation (overfitting, dropout)  
 * PyTorch06 Saving and Loading Models  
 * PyTorch07 Loading Image Data - Kaggle Cat and Dog Image Data
-* PyTorch08 Transfer Learning - Kaggle Cat and Dog Image Data  
+* PyTorch08 Transfer Learning: pre-trained model "ImageNet" - Kaggle Cat and Dog Image Data  
  
 ## Deep Learning
 ### Implementing Neural Networks 
