@@ -1,3 +1,5 @@
 
-Cat_Dog_data/train/dog/dog.999.jpg
-*.jpg
+Cat_Dog_data/train/dog/*.jpg
+Cat_Dog_data/train/cat/*.jpg
+Cat_Dog_data/test/dog/*.jpg
+Cat_Dog_data/test/cat/*.jpg
