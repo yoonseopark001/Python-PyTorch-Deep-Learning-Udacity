@@ -27,6 +27,7 @@
 * B1 Multi-Layer Perceptron with handwriting MNIST data  
 * B2 OpenCV - Create a filter, Edge Detection "openCV" - curved lane image
 * B3 Convolutional Layer - car image
+* B4 Pooling Layers: Maxpooling visualization
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
