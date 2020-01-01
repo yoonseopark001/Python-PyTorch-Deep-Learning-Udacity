@@ -28,6 +28,8 @@
 * B2 OpenCV - Create a filter, Edge Detection "openCV" - curved lane image
 * B3 Convolutional Layer - car image
 * B4 Pooling Layers: Maxpooling visualization
+* B5 CIFAR-10 CNN
+* B5_1 CIFAR-10 CNN with argumentation
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
