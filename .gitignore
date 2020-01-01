@@ -3,3 +3,4 @@ Cat_Dog_data/train/dog/*.jpg
 Cat_Dog_data/train/cat/*.jpg
 Cat_Dog_data/test/dog/*.jpg
 Cat_Dog_data/test/cat/*.jpg
+assets/.ImageNet_example.png.icloud
