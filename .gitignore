@@ -6,3 +6,4 @@ Cat_Dog_data/test/cat/*.jpg
 assets/.ImageNet_example.png.icloud
 .DS_Store
 data/MNIST/*
+.DS_Store
