@@ -29,8 +29,9 @@
 * B3 Convolutional Layer - car image
 * B4 Pooling Layers: Maxpooling visualization
 * B5 CIFAR-10 CNN
-* B5_1 CIFAR-10 CNN with argumentation
-* B6 Transfer learning
+* B5_1 CIFAR-10 CNN with argumentation  
+* B6 Transfer learning  
+* B7 Weight Initialization  
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
