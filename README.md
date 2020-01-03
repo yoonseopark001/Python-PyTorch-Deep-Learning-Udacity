@@ -30,6 +30,7 @@
 * B4 Pooling Layers: Maxpooling visualization
 * B5 CIFAR-10 CNN
 * B5_1 CIFAR-10 CNN with argumentation
+* B6 Transfer learning
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
