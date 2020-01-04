@@ -8,3 +8,4 @@ assets/.ImageNet_example.png.icloud
 data/MNIST/*
 .DS_Store
 .ipynb_checkpoints/B6_Transfer_Learning-checkpoint.ipynb
+.DS_Store
