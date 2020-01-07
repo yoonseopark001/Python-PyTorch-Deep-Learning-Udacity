@@ -24,15 +24,18 @@
 * A4 Implementing Backpropagation with Student Admission Data
 
 ### Convolutional Neural Networks (CNN)
-* B1 Multi-Layer Perceptron with handwriting MNIST data  
-* B2 OpenCV - Create a filter, Edge Detection "openCV" - curved lane image
-* B3 Convolutional Layer - car image
-* B4 Pooling Layers: Maxpooling visualization
-* B5 CIFAR-10 CNN
-* B5_1 CIFAR-10 CNN with argumentation  
-* B6 Transfer learning  
-* B7 Weight Initialization  
-* B8 Auto Encoder  
+* B01 Multi-Layer Perceptron with handwriting MNIST data  
+* B02 OpenCV - Create a filter, Edge Detection "openCV" - curved lane image
+* B03 Convolutional Layer - car image
+* B04 Pooling Layers: Maxpooling visualization
+* B05 CIFAR-10 CNN
+* B05_1 CIFAR-10 CNN with argumentation  
+* B06 Transfer learning  
+* B07 Weight Initialization  
+* B08 Simple Auto Encoder  
+* B09 Convolutional_Autoencoder  
+* B10 Upsampling  
+* B11 Denoising_Autoencoder
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
