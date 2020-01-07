@@ -32,6 +32,7 @@
 * B5_1 CIFAR-10 CNN with argumentation  
 * B6 Transfer learning  
 * B7 Weight Initialization  
+* B8 Auto Encoder  
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
