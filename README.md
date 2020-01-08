@@ -36,6 +36,8 @@
 * B09 Convolutional_Autoencoder  
 * B10 Upsampling  
 * B11 Denoising_Autoencoder
+* B12 Style Transfer   
+* B12_1 Style Transfer_additional exercise   
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
