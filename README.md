@@ -3,6 +3,7 @@
 ## Projects
 * P1 Bike Sharing Patterns - UCI Machine Learning dataset  
 * P2 Sentiment Analysis - iMDb movie reviews and ratings
+* P3 Dog-Breed Classifier - Convolutional Neural Networks
 
 ## PyTorch
 * PyTorch01 Intro to Deep Learning with PyTorch - Neural Networks, Tensors, Numpy to Torch and back  
