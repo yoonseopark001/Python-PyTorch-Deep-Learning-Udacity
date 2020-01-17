@@ -5,7 +5,14 @@
 * P2 Sentiment Analysis - iMDb movie reviews and ratings
 * P3 Dog-Breed Classifier - Convolutional Neural Networks
 
-## PyTorch
+## Deep Learning
+### Implementing Neural Networks 
+* A1 Implementing Gradient Descent  
+* A2 Implementing Gradient Descent with Student Admission Data  
+* A3 Implementing Gradient Descent with Analyzing Student Admission Data (Simpler Version)  
+* A4 Implementing Backpropagation with Student Admission Data
+
+## Neural Networks using PyTorch
 * PyTorch01 Intro to Deep Learning with PyTorch - Neural Networks, Tensors, Numpy to Torch and back  
 * PyTorch02 Handwriting MNIST project (1/2) - Building Neural Networks with PyTorch (Activation Functions, Build a Network, Initializing weights and biases, Forward pass, nn.Sequential)  
 * PyTorch03 Handwriting MNIST project (2/2) - Training Neural Networks and Implementation
@@ -16,13 +23,6 @@
 * PyTorch06 Saving and Loading Models  
 * PyTorch07 Loading Image Data - Kaggle Cat and Dog Image Data
 * PyTorch08 Transfer Learning: pre-trained model "ImageNet" - Kaggle Cat and Dog Image Data  
- 
-## Deep Learning
-### Implementing Neural Networks 
-* A1 Implementing Gradient Descent  
-* A2 Implementing Gradient Descent with Student Admission Data  
-* A3 Implementing Gradient Descent with Analyzing Student Admission Data (Simpler Version)  
-* A4 Implementing Backpropagation with Student Admission Data
 
 ### Convolutional Neural Networks (CNN)
 * B01 Multi-Layer Perceptron with handwriting MNIST data  
@@ -39,6 +39,9 @@
 * B11 Denoising_Autoencoder
 * B12 Style Transfer   
 * B12_1 Style Transfer_additional exercise   
+
+### RNN & LSTM
+* C01 Simple RNN
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
