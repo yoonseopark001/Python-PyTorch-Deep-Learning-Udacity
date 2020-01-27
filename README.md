@@ -41,7 +41,8 @@
 * B12_1 Style Transfer_additional exercise   
 
 ### RNN & LSTM
-* C01 Simple RNN
+* C1 Simple RNN  
+* C2 Character-Level RNN & LSTM in PyTorch  
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
