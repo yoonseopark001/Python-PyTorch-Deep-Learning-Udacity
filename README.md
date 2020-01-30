@@ -45,6 +45,7 @@
 * C2 Character-Level RNN & LSTM in PyTorch  
 * C3 Skip-gram Word2Vec
 * C3_1 Skip-gram Word2Vec - Negative_Sampling (faster)
+* C4 Sentiment Analysis
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
