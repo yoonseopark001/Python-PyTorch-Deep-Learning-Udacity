@@ -4,6 +4,7 @@
 * P1 Bike Sharing Patterns - UCI Machine Learning dataset  
 * P2 Sentiment Analysis - iMDb movie reviews and ratings
 * P3 Dog-Breed Classifier - Convolutional Neural Networks
+* P4 TV Script Generation - LSTM, RNN  
 
 ## Deep Learning
 ### Implementing Neural Networks 
@@ -59,4 +60,3 @@
 ## Data Cleanup
 * e1 Data Cleanup with graduate admission dataset 1  
 * e2 Data Cleanup with graduate admission dataset 2 (Simpler Version on one-hot encoding ; Z-score)
-
