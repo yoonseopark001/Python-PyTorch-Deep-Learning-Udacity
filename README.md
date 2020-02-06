@@ -47,6 +47,7 @@
 * C3 Skip-gram Word2Vec
 * C3_1 Skip-gram Word2Vec - Negative_Sampling (faster)
 * C4 Sentiment Analysis
+* C5 Attention
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
