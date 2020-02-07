@@ -50,7 +50,7 @@
 * C5 Attention
 
 ### Generative Adversarial Networks (GAN)
-* D1 MNIST_GAN
+* D1 MNIST_GAN  
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
