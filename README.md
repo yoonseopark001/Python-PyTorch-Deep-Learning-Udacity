@@ -49,6 +49,9 @@
 * C4 Sentiment Analysis
 * C5 Attention
 
+### Generative Adversarial Networks (GAN)
+* D1 MNIST_GAN
+
 ## Exercises
 * 01 Perceptron As Logical Operators  
 * 02 Perceptron AlgorithmCoding  
