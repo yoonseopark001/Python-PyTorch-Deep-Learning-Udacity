@@ -51,6 +51,7 @@
 
 ### Generative Adversarial Networks (GAN)
 * D1 MNIST_GAN  
+* D2 Batch_Normalization
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
