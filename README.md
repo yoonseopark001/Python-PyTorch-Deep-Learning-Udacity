@@ -53,6 +53,7 @@
 * D1 MNIST_GAN  
 * D2 Batch_Normalization
 * D3 Deep Convolutional GANs  
+* D4 CycleGAN
 
 ## Exercises
 * 01 Perceptron As Logical Operators  
