@@ -5,6 +5,7 @@
 * P2 Sentiment Analysis - iMDb movie reviews and ratings
 * P3 Dog-Breed Classifier - Convolutional Neural Networks
 * P4 TV Script Generation - LSTM, RNN  
+* P5 Face Generation
 
 ## Deep Learning
 ### Implementing Neural Networks 
