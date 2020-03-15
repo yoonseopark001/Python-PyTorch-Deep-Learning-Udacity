@@ -6,6 +6,7 @@
 * P3 Dog-Breed Classifier - Convolutional Neural Networks
 * P4 TV Script Generation - LSTM, RNN  
 * P5 Face Generation
+* P6 SageMaker
 
 ## Deep Learning
 ### Implementing Neural Networks 
